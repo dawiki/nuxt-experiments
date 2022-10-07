@@ -1,8 +1,0 @@
-name = "dawiki-nuxt"
-main = "./.output/server/index.mjs"
-workers_dev = true
-compatibility_date = "2022-09-10"
-account_id = "7be46a9ef2d0633681604b209a724ff5"
-
-[site]
-bucket = ".output/public"
